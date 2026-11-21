@@ -4,6 +4,8 @@
 
 # [Y](https://yapp.io)
 
+[![Open in Hanzo](https://hanzo.app/badges/open-in-hanzo.svg)](https://hanzo.app/dev/open?repo=github.com/zeekay/yapp&ref=main&action=open) [![Edit with Hanzo](https://hanzo.app/badges/edit-with-hanzo.svg)](https://hanzo.app/dev/open?repo=github.com/zeekay/yapp&ref=main&action=edit)
+
 [![Downloads](https://img.shields.io/github/downloads/zeekay/yapp/total.svg)](https://github.com/zeekay/yapp/releases/latest)
 [![Build Status](https://img.shields.io/bitrise/716921b669780314/master?token=3pMiCb5dpFzlO-7jTYtO3Q)](https://app.bitrise.io/app/716921b669780314)
 [![Donate](https://img.shields.io/badge/buy%20me%20a%20coffee-donate-yellow.svg)](https://donate.zoo.ngo)
